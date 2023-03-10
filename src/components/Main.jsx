@@ -25,7 +25,7 @@ function Main() {
 			</div>
 
 			<div className="bcard__btn-wrapper">
-				<a href="mailto:alperenweb3@gmail.com" target="__blank"><button className="bcard__btn bcard__btn--email"><FontAwesomeIcon className="bcard__btn-icon" icon={faEnvelope}></FontAwesomeIcon>Email</button></a>
+				<a href="mailto:uenvermelih@gmail.com" target="__blank"><button className="bcard__btn bcard__btn--email"><FontAwesomeIcon className="bcard__btn-icon" icon={faEnvelope}></FontAwesomeIcon>Email</button></a>
 				<a href="https://www.linkedin.com/in/melih-%C3%BCnver-a6b399175/" target="__blank"><button className="bcard__btn bcard__btn--linkedin"><FontAwesomeIcon className="bcard__btn-icon" icon={faLinkedin}></FontAwesomeIcon>
 Linkedin</button></a>
 			</div>
