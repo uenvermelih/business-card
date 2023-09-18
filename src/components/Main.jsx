@@ -18,7 +18,7 @@ function Main() {
 
 			<div className="bcard__heading-wrapper">
 				<h1 className="bcard__name">Melih Ünver</h1>
-				<h2 className="bcard__title">Web3 Developer</h2>
+				<h2 className="bcard__title">3D Web Developer</h2>
 				<div className="bcard__website">
 					<a style= { LinkStyle } href="https://uenvermelih.io" target="__blank">uenvermelih.io</a>
 				</div>
@@ -33,11 +33,11 @@ Linkedin</button></a>
 			<div className="bcard__text-wrapper">
 				<div className="bcard__about">
 					<h3 className="bcard__heading">About</h3>
-					<p className="bcard__text"><span role="img" aria-label="hand-signs"></span> #webdeveloper #webdesigner #blockchaindeveloper #selflearner</p>
+					<p className="bcard__text"><span role="img" aria-label="hand-signs"></span> #webdeveloper #webdesigner #3Ddeveloper</p>
 				</div>
 				<div className="bcard__interests">
 					<h3 className="bcard__heading">Interests</h3>
-					<p className="bcard__text">Web3, Blockchain, Boxing, Travel</p>
+					<p className="bcard__text">3DWeb, 3DDesign, Animation, Travel</p>
 				</div>
 			</div>	
 		</div>
